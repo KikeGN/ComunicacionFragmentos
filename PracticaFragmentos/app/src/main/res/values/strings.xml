@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PracticaFragmentos</string>
+    <string name="escribe_1">Escribe 1</string>
+    <string name="escribe_2">Escribe 2</string>
+    <string name="escribe_3">Escribe 3</string>
+    <string name="button">Button</string>
+    <string name="checkbox">CheckBox</string>
+    <string name="name">Name</string>
+    <string name="aceptar">ACEPTAR</string>
+    <string name="android">ANDROID</string>
+    <string name="fragmento_dinamico">Fragmento Dinamico</string>
+    <string name="fragmento_hardcode_xml">Fragmento Hardcode XML</string>
+</resources>
